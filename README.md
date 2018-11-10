@@ -21,4 +21,5 @@ There 5 distributions functions that I discuss are:
 In this section I explain about seeds and how and why they are set in generating pseudorandom numbers.
 
 I include here aslo a link that explains how to run a Jupyter Notebook.
+https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/execute.html
 
