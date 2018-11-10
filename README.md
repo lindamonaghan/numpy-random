@@ -18,5 +18,7 @@ There 5 distributions functions that I discuss are:
 -Geometric Distribution
 
 4. Explain the use of seeds in generating pseudorandom numbers.
-In this section I explain about seeds and how and why they are set in generating pseudorandom numbers
+In this section I explain about seeds and how and why they are set in generating pseudorandom numbers.
+
+I include here aslo a link that explains how to run a Jupyter Notebook.
 
